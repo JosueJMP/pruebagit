@@ -1,0 +1,14 @@
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\bin\Debug\net8.0\pruebaborrar.exe
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\bin\Debug\net8.0\pruebaborrar.deps.json
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\bin\Debug\net8.0\pruebaborrar.runtimeconfig.json
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\bin\Debug\net8.0\pruebaborrar.dll
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\bin\Debug\net8.0\pruebaborrar.pdb
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\pruebaborrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\pruebaborrar.AssemblyInfoInputs.cache
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\pruebaborrar.AssemblyInfo.cs
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\pruebaborrar.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\pruebaborrar.dll
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\refint\pruebaborrar.dll
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\pruebaborrar.pdb
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\pruebaborrar.genruntimeconfig.cache
+C:\Users\Josue\Desktop\pruebaborrar\pruebaborrar\obj\Debug\net8.0\ref\pruebaborrar.dll
